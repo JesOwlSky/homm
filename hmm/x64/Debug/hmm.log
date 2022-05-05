@@ -1,0 +1,5 @@
+﻿  hmm.cpp
+C:\Users\annje\OneDrive\Рабочий стол\homm-47097c9beb3c4eb48574a9599acf1abe9bcfb51e\hmm\hmm.cpp(174,34): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\annje\OneDrive\Рабочий стол\homm-47097c9beb3c4eb48574a9599acf1abe9bcfb51e\hmm\hmm.cpp(175,34): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\annje\OneDrive\Рабочий стол\homm-47097c9beb3c4eb48574a9599acf1abe9bcfb51e\hmm\hmm.cpp(596): warning C4715: 'Sprite2d::Init': not all control paths return a value
+  hmm.vcxproj -> C:\Users\annje\OneDrive\Рабочий стол\homm-47097c9beb3c4eb48574a9599acf1abe9bcfb51e\x64\Debug\hmm.exe
