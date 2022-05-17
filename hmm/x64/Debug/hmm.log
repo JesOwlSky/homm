@@ -1,5 +1,8 @@
 ﻿  hmm.cpp
-C:\Users\annje\OneDrive\Рабочий стол\homm-47097c9beb3c4eb48574a9599acf1abe9bcfb51e\hmm\hmm.cpp(174,34): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
-C:\Users\annje\OneDrive\Рабочий стол\homm-47097c9beb3c4eb48574a9599acf1abe9bcfb51e\hmm\hmm.cpp(175,34): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
-C:\Users\annje\OneDrive\Рабочий стол\homm-47097c9beb3c4eb48574a9599acf1abe9bcfb51e\hmm\hmm.cpp(596): warning C4715: 'Sprite2d::Init': not all control paths return a value
-  hmm.vcxproj -> C:\Users\annje\OneDrive\Рабочий стол\homm-47097c9beb3c4eb48574a9599acf1abe9bcfb51e\x64\Debug\hmm.exe
+C:\Projects\homm-47097c9beb3c4eb48574a9599acf1abe9bcfb51e\hmm\hmm.cpp(364,34): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Projects\homm-47097c9beb3c4eb48574a9599acf1abe9bcfb51e\hmm\hmm.cpp(365,34): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Projects\homm-47097c9beb3c4eb48574a9599acf1abe9bcfb51e\hmm\hmm.cpp(111): warning C4715: 'Sprite2d::Init': not all control paths return a value
+C:\Projects\homm-47097c9beb3c4eb48574a9599acf1abe9bcfb51e\hmm\hmm.cpp(201): warning C4715: 'SpriteManager::GetPointer': not all control paths return a value
+C:\Projects\homm-47097c9beb3c4eb48574a9599acf1abe9bcfb51e\hmm\hmm.cpp(233): warning C4715: 'SpriteManager::CreateSprite': not all control paths return a value
+C:\Projects\homm-47097c9beb3c4eb48574a9599acf1abe9bcfb51e\hmm\hmm.cpp(216): warning C4715: 'SpriteManager::FindSprite': not all control paths return a value
+  hmm.vcxproj -> C:\Projects\homm-47097c9beb3c4eb48574a9599acf1abe9bcfb51e\x64\Debug\hmm.exe
